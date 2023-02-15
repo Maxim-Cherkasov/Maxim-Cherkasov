@@ -1,10 +1,5 @@
 ### 👋 Hi I'm Maxim
 
-<!--
-**Maxim-Cherkasov/Maxim-Cherkasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on A website for a friend. I use React/Next and SCSS modules. 
 - 🌱 I’m currently learning new React official tutorial and adore it.
 - 👯 I’m looking to collaborate on some simple web dev projects just to get started.
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
