@@ -9,9 +9,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxim-Cherkasov&hide=PHP&layout=compact)](https://github.com/Maxim-Cherkasov/github-readme-stats)
 
-<a href="https://github.com/Maxim-Cherkasov/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Maxim-Cherkasov&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/Maxim-Cherkasov/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Maxim-Cherkasov&show_icons=true&theme=transparent" />
-</a>
+
