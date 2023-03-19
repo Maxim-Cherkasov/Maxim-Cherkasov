@@ -9,4 +9,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxim-Cherkasov&hide=PHP&layout=compact)](https://github.com/Maxim-Cherkasov/github-readme-stats)
 
-
+| <a href="https://github.com/Maxim-Cherkasov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Maxim-Cherkasov&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Maxim's github stats" /></a> | <a href="https://github.com/Maxim-Cherkasov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxim-Cherkasov&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
