@@ -6,3 +6,5 @@
 - 📫 How to reach me: Telegram: https://t.me/lx_mm, Twitter https://twitter.com/CherkasovMaxim
 
 ![Maxim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxim-Cherkasov&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxim-Cherkasov)](https://github.com/Maxim-Cherkasov/github-readme-stats)
