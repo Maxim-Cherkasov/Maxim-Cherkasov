@@ -2,9 +2,7 @@
 
 🔭 I’m currently working on a website for a friend: https://github.com/Maxim-Cherkasov/react-official2-next/tree/project-one.
 
-🌱 I’m currently learning the new React official tutorial.
-
-👯 I’m looking to collaborate on frontend projects.
+👯 I’m looking to collaborate on open source projects.
 
 📫 How to reach me: 
 
