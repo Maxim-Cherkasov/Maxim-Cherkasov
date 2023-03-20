@@ -15,6 +15,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 | <a href="https://github.com/Maxim-Cherkasov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Maxim-Cherkasov&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Maxim's github stats" /></a> | <a href="https://github.com/Maxim-Cherkasov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxim-Cherkasov&layout=compact&theme=buefy&hide_border=true&hide=PHP" /></a> |
 | ------------- | ------------- |
